@@ -1,3 +1,1 @@
 masterブランチで書きました
-Aブランチで書きました
-conflict.md
