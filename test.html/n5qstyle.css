@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(221, 152, 244, 0.92);
+}
+
+h2 {
+  color: white;
+  font-size: 16px;
+}
+
+#parag1 {
+  font-size: large;
+}
+
+#parag2 {
+  background-color: white;
+}
